@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 
-st.set_page_config(page_title="Thai LCI & LCA Explorer", page_icon="🌱", layout="wide")
+st.set_page_config(page_title="ลิง Ranger DB_Thai LCI & LCA", page_icon="🌱", layout="wide")
 
 st.markdown("""
 <style>
