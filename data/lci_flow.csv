@@ -1,0 +1,26 @@
+flow_id,flow_name,category_id,flow_type,compartment,default_unit_id,description
+1,Fuel Oil,1,PRODUCT,,3,Fuel oil consumed in electricity generation.
+2,Lignite,1,PRODUCT,,2,Lignite consumed in electricity generation.
+3,Diesel Oil,1,PRODUCT,,3,Diesel oil consumed in electricity generation.
+4,Palm Oil,1,PRODUCT,,3,Palm oil consumed in electricity generation.
+5,Natural Gas,1,PRODUCT,,1,Natural gas consumed in electricity generation.
+6,Electricity - Hydro,1,PRODUCT,,4,Hydroelectricity generation
+7,Electricity - Fuel Oil,1,PRODUCT,,4,Electricity generated from fuel oil
+8,Electricity - Coal & Lignite,1,PRODUCT,,4,Electricity generated from coal and lignite
+9,Electricity - Natural Gas,1,PRODUCT,,4,Electricity generated from natural gas
+10,Electricity - Diesel,1,PRODUCT,,4,Electricity generated from diesel
+11,Electricity - Imported,1,PRODUCT,,4,Imported electricity
+12,Electricity - Renewable Energy,1,PRODUCT,,4,Electricity generated from renewable energy
+13,Municipal Solid Waste,1,PRODUCT,,2,Municipal solid waste consumed for electricity generation.
+14,Agricultural Waste,1,PRODUCT,,2,Agricultural waste consumed for electricity generation.
+15,Bagasse,1,PRODUCT,,2,Bagasse consumed for electricity generation.
+16,Paddy Husk,1,PRODUCT,,2,Paddy husk consumed for electricity generation.
+17,Briquettes & Other Coal,1,PRODUCT,,2,Coal briquettes and other coal consumed for electricity generation.
+18,Bituminous Coal,1,PRODUCT,,2,Bituminous coal consumed for electricity generation.
+19,Biogas,1,PRODUCT,,7,Biogas consumed for electricity generation.
+20,Other Energy,1,PRODUCT,,9,Other energy input reported by DEDE.
+21,Black Liquor,1,PRODUCT,,9,Black liquor energy input reported by DEDE.
+26,HSD,1,PRODUCT,"",3,High Speed Diesel (HSD) fuel input reported separately by DEDE; kept distinct from Diesel Oil.
+27,CO2 - Oil,2,ELEMENTARY,air,2,"Carbon dioxide emission to air from oil-fired electricity generation, as reported by EPPO."
+28,CO2 - Coal/Lignite,2,ELEMENTARY,air,2,"Carbon dioxide emission to air from coal and lignite electricity generation, as reported by EPPO."
+29,CO2 - Natural Gas,2,ELEMENTARY,air,2,"Carbon dioxide emission to air from natural-gas-fired electricity generation, as reported by EPPO."

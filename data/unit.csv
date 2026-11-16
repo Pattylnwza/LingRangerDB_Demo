@@ -1,0 +1,10 @@
+unit_id,unit_name,unit_symbol,dimension,conversion_factor,is_base_unit,description
+1,Million Standard Cubic Feet,MMSCF,VOLUME,1.000000000000,f,Source-native unit for natural gas consumption.
+2,Thousand Tons,"1,000 Tons",MASS,1.000000000000,f,Source-native unit for lignite consumption.
+3,Million Litres,Million Litres,VOLUME,1.000000000000,f,Source-native unit for liquid fuel consumption.
+4,Gigawatt-hour,GWh,ENERGY,1.000000000000,f,Source-native unit for electricity generation.
+5,Kilogram,kg,MASS,1.000000000000,t,Base unit for mass.
+6,Gram,g,MASS,0.001000000000,f,Gram expressed in kilograms.
+7,Cubic metre,m3,VOLUME,1.000000000000,t,Base unit for volume.
+8,Megajoule,MJ,ENERGY,1.000000000000,t,Base unit for energy.
+9,Gigajoule,GJ,ENERGY,1.000000000000,f,Original DEDE source unit. Conversion factor is provisional; do not use for cross-unit conversion until unit conversion metadata is standardized.

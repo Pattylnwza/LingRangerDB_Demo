@@ -1,0 +1,4 @@
+technology_id,technology_name,technology_group,description
+1,EGAT Electricity Generation (Aggregate),Aggregated Generation,Aggregated electricity generation data reported by EGAT; not separated by individual generation technology.
+2,Thailand Electricity Generation (National Aggregate),Aggregated Generation,National aggregated electricity generation data reported through EPPO.
+3,Thailand National Fuel Consumption (DEDE),National Aggregate,National aggregated fuel consumption for electricity generation based on DEDE Energy Balance Table 42.

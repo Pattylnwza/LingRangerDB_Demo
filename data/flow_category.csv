@@ -1,0 +1,3 @@
+category_id,category_name,category_type,description
+1,Energy Carrier,TECHNOSPHERE,Energy and fuel inputs consumed in electricity generation.
+2,Elementary Flow,ENVIRONMENT,"Substances exchanged between electricity generation processes and the natural environment, including emissions and resource inputs."
